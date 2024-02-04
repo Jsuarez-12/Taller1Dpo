@@ -1,0 +1,13 @@
+tipo:acpm:9750:70.0
+tipo:Extra:13000:75.0
+tipo:Corriente:10000:100.0
+tipo:Diesel:9500:90.0
+surtidor:David:acpm:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Susana:acpm:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Martin:acpm:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Carlos:acpm:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+empleado:Isabela:0
+empleado:David:0
+empleado:Martin:0
+empleado:Susana:0
+empleado:Carlos:0
